@@ -1,0 +1,25 @@
+PackageIdentifier: xanderfrangos.twinkletray
+PackageVersion: 1.12.2
+PackageLocale: en-US
+Publisher: Xander Frangos
+PackageName: Twinkle Tray
+PackageUrl: https://github.com/xanderfrangos/twinkle-tray
+License: MIT
+LicenseUrl: https://github.com/xanderfrangos/twinkle-tray/blob/master/LICENSE
+ShortDescription: Easily manage the brightness of your monitors from the system tray
+Moniker: twinkletray
+Tags:
+- backlight
+- backlight-control
+- brightness
+- brightness-control
+- ddc
+- ddcci
+- ddc-ci
+- displays
+- electron
+- monitor
+- monitors
+- system-tray
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0

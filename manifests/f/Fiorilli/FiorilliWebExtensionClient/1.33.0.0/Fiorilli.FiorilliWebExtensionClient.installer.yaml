@@ -1,0 +1,12 @@
+# Automatically updated by the winget bot at 2024/Sep/26
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: Fiorilli.FiorilliWebExtensionClient
+PackageVersion: 1.33.0.0
+InstallerType: inno
+Installers:
+- Architecture: x64
+  InstallerUrl: https://acessos.fiorilli.com.br/api/instalacao/webextension.exe
+  InstallerSha256: 65E610990E581B303E2AE9ABFD3A8514E75955551FDB396DE771BC845628D71D
+ManifestType: installer
+ManifestVersion: 1.6.0

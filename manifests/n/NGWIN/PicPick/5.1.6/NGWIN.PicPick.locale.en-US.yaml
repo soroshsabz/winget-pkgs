@@ -1,0 +1,22 @@
+PackageIdentifier: NGWIN.PicPick
+PackageVersion: 5.1.6
+PackageLocale: en-US
+Publisher: NGWIN
+Author: picpick
+PackageName: PicPick
+PackageUrl: https://picpick.app/
+License: Copyright (c) picpick
+LicenseUrl: https://picpick.app/en/eula/
+ShortDescription: All-in-one Graphic Design, Best Screen Capture Software, Image Editor, Color Picker, Pixel Ruler and More.
+Moniker: picpick
+Tags:
+- color-picker
+- image
+- long-screenshot
+- picture
+- pixel-ruler
+- screen-capture
+- screenshoot
+- scrolling-screenshot
+ManifestType: defaultLocale
+ManifestVersion: 1.1.0

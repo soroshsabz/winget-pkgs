@@ -1,0 +1,19 @@
+PackageIdentifier: KiCad.KiCad.Lite
+PackageVersion: 5.1.6
+PackageLocale: en-US
+Publisher: KiCad
+Author: KiCad
+PackageName: KiCad Lite EDA
+PackageUrl: https://www.kicad.org
+License: GNU AFFERO GENERAL PUBLIC LICENSE Version 3
+LicenseUrl: https://gitlab.com/kicad/code/kicad/-/blob/master/LICENSE.AGPLv3
+ShortDescription: A Cross Platform and Open Source Electronics Design Automation Suite
+Moniker: kicad-lite
+Tags:
+- cad
+- eda
+- kicad
+- lite
+- pcb
+ManifestType: defaultLocale
+ManifestVersion: 1.1.0

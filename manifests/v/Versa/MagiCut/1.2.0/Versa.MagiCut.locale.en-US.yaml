@@ -1,0 +1,27 @@
+PackageIdentifier: Versa.MagiCut
+PackageVersion: 1.2.0
+PackageLocale: en-US
+Publisher: versa-ai.com
+PublisherUrl: https://www.versa-ai.com/
+PrivacyUrl: https://bugu.versa-ai.com/privacypPlicy.html
+Author: Shanghai Yi Tian Network Technology Co., Ltd.
+PackageName: 不咕剪辑
+PackageUrl: https://bugu.versa-ai.com/
+License: Freeware
+LicenseUrl: https://bugu.versa-ai.com/userAgreements.html
+Copyright: Copyright © 2021 Versa Inc. All Rights Reserved.
+ShortDescription: The first desktop video editor for bilibili uploaders
+Moniker: magicut
+Tags:
+- clip
+- creative
+- creativity
+- edit
+- editor
+- film
+- movie
+- video
+- video-editing
+- video-editor
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0
